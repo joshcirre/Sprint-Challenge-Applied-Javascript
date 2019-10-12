@@ -16,7 +16,7 @@ function header() {
   headerContainer.classList.add('header');
 
   let headerSpan = document.createElement('span');
-  headerSpan.textContent = 'MARCH 28, 2019';
+  headerSpan.textContent = 'MARCH 28, 2019'; // That's my birthday!
   let headerHeading = document.createElement('h1');
   headerHeading.textContent = 'Lambda Times';
 
